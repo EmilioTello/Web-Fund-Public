@@ -1,0 +1,50 @@
+*{
+    margin: none;
+    padding: none;
+    /* border: 2px dotted red; */
+}
+
+.container{
+    border: 3px solid black;
+    height: 85px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.line1{
+    display: flex;
+    align-items: center;
+}
+.line1left{
+    font-size: 24px;
+    font-weight: 300;
+    margin-right: 50px;
+}
+.line1right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.number{
+    margin-right: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.likes{
+    margin-right: 15px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.btn{
+    background-color: rgb(249,217,120);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+    width: 50px;
+    height: 25px;
+    font-size: 15px;
+}
+.description{
+    font-size: 18px;
+}

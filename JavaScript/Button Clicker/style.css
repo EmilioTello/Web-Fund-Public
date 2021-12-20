@@ -1,0 +1,108 @@
+/* *{
+    border: 2px dotted red;
+} */
+body{
+    margin: none;
+    border: none;
+    padding: 0px 50px;
+}
+.containers{
+    width: 800px;
+}
+.top_container{
+    height: 65px;
+    width: 730px;
+    padding: 0px 20px;
+    margin-bottom: 20px;
+    background-color: rgb(204,204,204);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.search{
+    width: 400px;
+}
+.login{
+    background-color: rgb(62, 121, 221);
+    color: white;
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}
+.bottom_container{
+    width: 770px;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    margin-right: 20px;
+    width: 500px;
+}
+.left1{
+    width: auto;
+    height: 175px;
+    padding-left: 40px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+}
+.left2{
+    margin-top: 20px;
+    width: auto;
+    height: 175px;
+    padding-left: 40px; 
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+}
+.word{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+.noun{
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+.plural{
+    margin-top: 10px;
+}
+.ninjas{
+    font-style: italic;
+}
+.likes{
+    margin-top: 10px;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(240,209,116);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}
+.definition{
+    font-size: 22px;
+    margin-left: 75px;
+}
+.right{
+    width: 225px;
+    height: 135px;
+    padding-left: 10px; 
+    border: 3px solid black;
+}
+.definition2{
+    font-size: 28px;
+    font-weight: 400;
+}
+.you{
+    font-weight: 800;
+}
+.add{
+    width: 200px;
+    height: 30px;
+    margin-top: 15px;
+    font-size: 16px;
+    background-color: rgb(157,194,132);
+    border: 2px solid black;
+    box-shadow: 2px 2px black;
+}

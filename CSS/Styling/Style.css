@@ -1,0 +1,21 @@
+h1{
+    font-size: 40px;
+    color: white;
+    background-color:black;
+}
+
+h2{
+    font-size: 35px;
+    text-align: center;
+    font-style: italic;
+    background-color:rebeccapurple;
+    color:white;
+}
+
+h3{
+    font-size: 32px;
+    text-align: right;
+    text-decoration: underline;
+    background-color:skyblue;
+    color: navy;
+}
